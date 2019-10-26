@@ -56,3 +56,5 @@ using (var db = new SQLite.SQLiteConnection(_pathToDatabase ))
 {
     db.Insert(person);
 }
+
+https://github.com/xamarin/docs-archive/tree/master/Recipes/ios/data/sqlite/create_a_database_with_sqlitenet
